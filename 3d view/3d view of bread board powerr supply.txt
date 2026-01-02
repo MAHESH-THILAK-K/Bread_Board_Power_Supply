@@ -1,0 +1,11 @@
+### Missing 3D models - created on 2026-01-02 21:00
+### Printed by checking_3D_models plugin
+Board file: E:/KiCad/PROJECTS/Bread Board Power Supply/PCB NEW FOR breD BOARD SUPPLY.kicad_pcb
+3D missing models written to:
+E:\KiCad\PROJECTS\Bread Board Power Supply\PCB NEW FOR breD BOARD SUPPLY_missing3Dmodels.txt
+-------
+('J7', 'E:\\New folder\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_bornier-2_P5.08mm.step')
+('J5', 'E:\\New folder\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_bornier-2_P5.08mm.step')
+-------
+NUM of 3D missing models:2
+checked extensions ['.stp', '.step', '.stpZ']
